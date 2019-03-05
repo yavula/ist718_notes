@@ -28,7 +28,7 @@ $$p(\text{customer buys} | \text{price}) = \sigma(0.2 - \frac{1}{2} \text{price}
 
 ### unsupervised Vs supervised
 
-##### in unsupervised learning, it has to learn 2 functions but supervised has only one intermediate function to learn
+###### in unsupervised learning, it has to learn 2 functions but supervised has only one intermediate function to learn
 
 
 ```python
